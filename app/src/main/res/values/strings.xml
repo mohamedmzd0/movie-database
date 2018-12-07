@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TheMovie</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Top Rated</string>
+    <string name="tab_text_2">Popular</string>
+    <string name="image_transition">profile</string>
+    <string name="poster_path">http://image.tmdb.org/t/p/w342</string>
+</resources>
